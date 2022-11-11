@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 body{
-  background-color: rgb(216, 55, 55);
+  background-color: hsl(212, 45%, 89%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -26,16 +26,16 @@ img{
 
 .firstp{
   text-align: center;
-  font-size: 1.4rem;
+  font-size: 1rem;
   margin: 20px 0;
   font-weight: 700;
 }
 
 .secondp{
   text-align: center;
-  font-size: .9rem;
+  font-size: .7rem;
   font-weight: 100;
-  margin: 20px;
+  margin: 10px;
   color: hsl(220, 15%, 55%);
 }
 
